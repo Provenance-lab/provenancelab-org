@@ -1,3 +1,3 @@
-:HL["/provenancelab-org/_next/static/chunks/e42bea5c8b662b78.css","style"]
+:HL["/_next/static/chunks/e42bea5c8b662b78.css","style"]
 :HC["/",""]
-0:{"buildId":"GdegXd8viqjY1haGjltUd","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"z78Dl1rLiRwv4QMA_rG1a","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
